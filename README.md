@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Michael Cohen
 
-You can use the [editor on GitHub](https://github.com/shplishka/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Software engineer_<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:shplishka@gmail.com) / [Website](https://shplishka.com/) / [GitHub](https://github.com/shplishka/) / [Dribbble](https://https://dribbble.com/Shplishka/) 
 
-### Markdown
+## 👩🏼‍🎓 Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Michael Cohen is a B.Sc graduate in the Department of Computer Science and M.Ba graduate in the Department of Business Administration &
+Data Science at Jerusalem College of Technology. 
+Michael’s main research is in NLP By dedicating relations in Hebrew sentences with Keras
+& Tensorflow. Other research fields that he works on are text analysis,
+Big-Data solutions for data scientists, scalable data flows, data routing,
+transformation, and system mediation logic. Among other things Michael
+is a Backend Big Data Developer. 
 
-```markdown
-Syntax highlighted code block
+## 💬 Languages
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shplishka/digital-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Hebrew**: Native <br>
+**English**: Very Good
+<br><br>
