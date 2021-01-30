@@ -2,7 +2,7 @@
 
 _Software engineer_<br>
 
-[Email](mailto:shplishka@gmail.com) / [Website](https://shplishka.com/) / [GitHub](https://github.com/shplishka/) / [Dribbble](https://https://dribbble.com/Shplishka/) 
+[Email](mailto:shplishka@gmail.com) / [Website](https://shplishka.com/) / [GitHub](https://github.com/shplishka/) / [Dribbble](https://dribbble.com/Shplishka/) 
 
 ## 👨‍🎓 Education
 
