@@ -4,7 +4,7 @@ _Software engineer_<br>
 
 [Email](mailto:shplishka@gmail.com) / [Website](https://shplishka.com/) / [GitHub](https://github.com/shplishka/) / [Dribbble](https://https://dribbble.com/Shplishka/) 
 
-## 👩🏼‍🎓 Education
+## 👨‍🎓 Education
 
 Michael Cohen is a B.Sc graduate in the Department of Computer Science and M.Ba graduate in the Department of Business Administration &
 Data Science at Jerusalem College of Technology. 
